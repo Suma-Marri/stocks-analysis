@@ -1,32 +1,24 @@
 # Stocks Analysis
 ## Overview of Project
+Steve in interesreted in stocks and needs help analyzing some stock data. Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.
 
 ### Purpose
+We created a VBA program to collect stock infomration in 2017 and 2018. We refactored the program to make it more quicker and efficient than the previous program. 
 
-## Analysis and Challenges
+## Results
 [2017](VBA_Challenge_2017.png)
 
 [2018](VBA_Challenge_2018.png)
 
-### Analysis of Outcomes Based on Launch Date
+The data shows 12 different stocks and 
 
-
-### Analysis of Outcomes Based on Goals
  
 
 ### Challenges and Difficulties Encountered
 
 
-## Results
+## Summary
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- There is a detailed statement on the advantages and disadvantages of refactoring code in general
 
-
-- What can you conclude about the Outcomes based on Goals?
-
-
-- What are some limitations of this dataset?
-
-
-- What are some other possible tables and/or graphs that we could create?
-
+- There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script  
